@@ -19,3 +19,11 @@
     - Exemplo: `http://localhost:3333/users?name=Naruto&idade=25`
 - **Route Params:** Identificar um recurso na alteração ou remoção
     - Exemplo: `http://localhost:3333/users/1`
+
+## Comandos
+- `docker-compose up -d`
+- `mvn spring-boot:run`
+
+## Conteudo Aula 2
+- ORM (Object Relational Mapping)
+- Repositório (Repository) -> Interage com o banco de dados
